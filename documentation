@@ -2,4 +2,4 @@ Navigating the files in the project -
   1) model_learning.py - contains the main model for the image classification.
   2) about - will contain the information about the project and the methodology used to finish it.
   3) Train_dataset - The data on which the model was trained (only uploading a sample of the data being used) - subject to change
-  4) readme - details about the project.
+  4)  - details about the project.
